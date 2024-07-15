@@ -11,6 +11,8 @@ repositories {
 
 dependencies {
     testImplementation 'org.jetbrains.kotlin:kotlin-test'
+    implementation "com.formdev:flatlaf:3.4.1"
+    implementation "com.miglayout:miglayout-swing:11.3"
 }
 
 test {
